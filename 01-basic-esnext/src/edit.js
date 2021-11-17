@@ -14,7 +14,7 @@ const Edit = () => {
 	return (
 		<div { ...blockProps }>
 			{ __(
-				'Hello World, step 1 (from the editor).',
+				'Hello World, step 1 (from the editor). - hellooooooooooooooooooooooooo',
 				'gutenberg-examples'
 			) }
 		</div>
